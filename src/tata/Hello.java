@@ -26,6 +26,7 @@ public class Hello {
 		System.out.println(193);
 		System.out.println(20);
 		System.out.println(21);
+		System.out.println(22);
 		
 	}
 
