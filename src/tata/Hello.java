@@ -21,6 +21,9 @@ public class Hello {
 		System.out.println(16);
 		System.out.println(17);
 		System.out.println(18);
+		System.out.println(191);
+		System.out.println(192);
+		System.out.println(193);
 		
 		
 	}
